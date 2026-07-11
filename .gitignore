@@ -32,6 +32,26 @@ Thumbs.db
 
 # TypeScript
 *.tsbuildinfo
+frontend/next-env.d.ts
 
 # Vercel
 .vercel
+
+# IDE / editor config
+.vscode/
+.idea/
+
+# Kiro AI tool files — not for the repo
+.kiro/
+
+# AI tool instruction files
+AGENTS.md
+CLAUDE.md
+frontend/AGENTS.md
+frontend/CLAUDE.md
+
+# SWC cache
+frontend/.swc/
+
+# Sample/test files not needed in production
+sample_leads.csv
