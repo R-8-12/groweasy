@@ -192,8 +192,8 @@ The application is deployed on the following platforms:
 
 | Service | Platform | URL |
 |---------|----------|-----|
-| **Frontend** | Vercel | `https://your-frontend.vercel.app` |
-| **Backend API** | Railway | `https://your-backend.railway.app` |
+| **Frontend** | Vercel | `https://groweasy-lake.vercel.app` |
+| **Backend API** | Railway | `https://groweasy-production-3500.up.railway.app` |
 
 > **Note:** Replace the placeholder URLs above with your actual deployment URLs after deploying. Update `FRONTEND_ORIGIN` on the backend deployment and `NEXT_PUBLIC_BACKEND_URL` on the frontend deployment to point at each other (see [Environment Variable Reference](#environment-variable-reference)).
 
